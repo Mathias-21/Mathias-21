@@ -1,6 +1,5 @@
 ### Mathias Lemes 😳🕶️🤏
-
-## Front-end Developer in Zukt Labs
+# Front-end Developer in Zukt Labs
 
 <p align="center">
 <a href="https://github.com/Mathias-21">
