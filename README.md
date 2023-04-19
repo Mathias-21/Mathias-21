@@ -1,4 +1,5 @@
-### Mathias Lemes 🤏🕶️😳
+### Mathias Lemes
+### Dev React.js | React Native
 
 <p align="center">
 <a href="https://github.com/Mathias-21">
